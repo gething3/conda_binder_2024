@@ -5,12 +5,12 @@ dependencies:
   - python=3.9
   - r=4.0
   - plotly
-  - dpylyr
-  - ggplot2
-  - reshape2
-  - tidyverse
-  - scikit_learn
-  - stringr
+  - r-dpylyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - scikit-learn
+  - r-stringr
   - numpy
   - psutil
   - toolz
