@@ -4,6 +4,13 @@ channels:
 dependencies:
   - python=3.9
   - r=4.0
+  - plotly
+  - dpylyr
+  - ggplot2
+  - reshape2
+  - tidyverse
+  - scikitlearn
+  - stringr
   - numpy
   - psutil
   - toolz
