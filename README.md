@@ -2,6 +2,8 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gething3/conda_binder_2024/py37_r353)
 
+https://hub.ovh2.mybinder.org/user/gething3-conda_binder_2024-5ku5lx7i/lab
+
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
